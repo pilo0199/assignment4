@@ -2,4 +2,4 @@
 
 2.GitHub repository: https://github.com/pilo0199/assignment4.git
 
-3.Docker Hub Image:https://hub.docker.com/repository/docker/remipilon/docker-a04
+3.Docker Hub Image: https://hub.docker.com/repository/docker/remipilon/docker-a04
